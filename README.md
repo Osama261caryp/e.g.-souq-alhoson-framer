@@ -1,2 +1,5 @@
-# e.g.-souq-alhoson-framer
-e.g. souq-alhoson-framer
+# SOUQ ALHOSON Framer Plugin
+
+Includes:
+- configure()
+- sync() with demo data
