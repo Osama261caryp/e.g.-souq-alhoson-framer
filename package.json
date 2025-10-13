@@ -1,12 +1,20 @@
 {
   "name": "souq-alhoson-framer",
   "version": "1.0.0",
-  "description": "Landing page components and CMS plugin for SOUQ ALHOSON using Framer.",
-  "main": "components/SouqAlHosonLandingPage.tsx",
+  "description": "Crypto wallet management landing page components and CMS plugin for SOUQ ALHOSON using Framer. Includes wallet tracking for 0x970A959AAC06FdB271e23C79daFA822dA93749FE",
+  "main": "SouqAlHosonLandingPage.tsx",
   "scripts": {
     "dev": "echo 'Start development in Framer'",
     "build": "echo 'Use Framer export or manual build process'"
   },
+  "keywords": [
+    "framer",
+    "crypto",
+    "wallet",
+    "ethereum",
+    "blockchain",
+    "cms"
+  ],
   "author": "SOUQ ALHOSON",
   "license": "MIT"
 }
